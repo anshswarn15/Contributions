@@ -3,7 +3,7 @@
 - Led a team in **CodeQuest**, securing **1st position**.  
 - Encouraged classmates to actively participate in club events and activities.  
 
----
+
 
 ## 🚀 Second Year
 - Conducted screening rounds for juniors and assisted in onboarding active members.  
@@ -12,7 +12,7 @@
 - Prepared presentation slides for **CodeCamp 3.0**.  
 - Volunteered in **Hackatron'25**, contributing to event management and coordination.  
 
----
+
 
 ## 🚀 Third Year
 - Conducted **Personal Interviews (PI)** for juniors, evaluating candidates for club selection.  
@@ -22,7 +22,7 @@
 - Monitored overall event operations, ensuring smooth and efficient execution.  
 - Currently coordinating the upcoming **HackOverse** event.  
 
----
+
 
 ## 🛠️ Management & Operations
 - Managed the club’s official **Google account**, ensuring seamless communication and coordination.  
@@ -31,7 +31,7 @@
 - Managed content uploads on the club’s **YouTube channel**.  
 - Designed and maintained **Google Forms** for registrations and data management.  
 
----
+
 
 ## 🤝 Participation & Engagement
 - Boosted student participation by actively reaching out and guiding juniors about events.  
@@ -39,4 +39,3 @@
 - Encouraged peers to participate in hackathons, coding contests, and club initiatives.  
 - Played a key role in fostering a more active and competitive environment within the club.  
 
----
