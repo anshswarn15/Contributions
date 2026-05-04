@@ -1,39 +1,19 @@
-First year
-•	Encouraged my batchmates to attend codecamp
-•	Attended regular meetings
-•	Made props for hack-o-verse
-•	Asked my batchmates to participate in various events in hack-o-verse
-•	Volunteered in hack-o-verse managing and doing the tasks provided by seniors
-•	Meeting with my clubmates for great bonding and task completion
-•	Invited final years for hncc official photoshoot
-Second year
-•	Took the screening round of many candidates for induction in club
-•	Encouraged and bought juniors for codecamp
-•	Prepared day wise slides and assignments for smooth conduction of java session in codecamp
-•	Volunteered the java session
-•	Installed java in juniors laptops and cleared their doubts
-•	Did all the content work for hackatron 2.0
-•	Wrote all email formats, newspaper and report content
-•	Took lead in making all the props for hacktron 2.0
-•	Anchored in hackatron 2.0
-•	Written all certificates for events to be given
-•	Attended regular meeting and took progress report of juniors
-•	Coordinated the performance for farewell
-•	Invited seniors and fulfilled their demands
-•	Managed and invited seniors for hncc photoshoot 
-•	Wrote content for various posters to be posted
-•	Participated in extempore and GD sessions conducted
+Overall Contributions
 
-Third year
-•	Took PI of many candidates to be inducted in club
-•	Helped juniors clear doubts in linux session
-•	Prepared companies list to reach out for sponsorship for hackatron 3.0
-•	Prepared email formats for hackatron 3.0
-•	Contacted for online and offline sponsorship
-•	Managed hncc and hackatron official mail account
-•	Managed the props for hackatron 3.0
-•	Core team member in hackatron 3.0
-•	Coordinated opening & closing ceremonies and mentoring and judging rounds
-•	Handled all certificate related things
-•	attended all official and unofficial meets whenever present
-•	Always did the briefing sessions in GH for any event of the club
+- Actively encouraged participation among batchmates and juniors for CodeCamp and various club events, increasing engagement and involvement
+- Conducted screening rounds and personal interviews for club inductions, ensuring selection of dedicated and capable candidates
+- Prepared structured, day-wise content, presentations, and assignments for smooth execution of Java sessions during CodeCamp
+- Volunteered in technical sessions by assisting juniors with Java installations and resolving their doubts in Java and Linux
+- Played a key role in organizing major events including Hack-O-Verse, Hackatron 2.0, and Hackatron 3.0
+- Led and contributed to content creation including email formats, reports, certificates, newspaper content, and poster write-ups for Hackatron 2.0
+- Took responsibility for designing, managing, and organizing event props for Hack-o-verse, Hackatron 2.0 and Hackatron 3.0
+- Anchored Hackatron 2.0 and contributed to managing event flow and coordination
+- Served as a core team member in Hackatron 3.0, coordinating opening & closing ceremonies, mentoring sessions, and judging rounds
+- Managed official communication channels, including handling Hackatron and HNCC email accounts
+- Prepared sponsorship outreach strategies, company lists, and professional email drafts and actively contacted organizations for online and offline sponsorships
+- Coordinated with seniors for various events, including invitations, requirement handling in farewell and organizing official photoshoots
+- Maintained regular involvement in meetings and tracked progress of junior members to ensure task completion
+- Contributed to organizing farewell performances and strengthening team coordination and bonding
+- Participated in extempore and group discussion sessions to enhance communication and presentation skills
+- Consistently attended official and unofficial meetings and conducted briefing sessions in GH for smooth execution of club events
+- Introduced 2k25 batch to SIH during their ongoing induction program and volunteered in conduction of SIH internals
