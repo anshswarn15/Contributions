@@ -16,4 +16,4 @@ HnCC Contributions:
 
   As well as there are more small things like escorting, briefing juniors before every event, conducted regular online and offline meetings, taking progress reports etc.
   
-  (Casual Note: I hope me sara details add kr chuka hu seniors if I missed anything take that as well in consideration if you remember. 😅)
+  (Casual Note: I hope me sara details add kr chuka hu seniors if I missed anything take that as well in consideration if you remember.)
