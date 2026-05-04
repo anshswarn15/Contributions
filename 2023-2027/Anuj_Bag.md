@@ -1,5 +1,5 @@
 HnCC Contributions:
-  During my first year attended codecamp2.0 and conveyed to my batchmates about this.
+  During my first year, I attended codecamp2.0 and conveyed and motivate to my batchmates about this.
   Helping my fellows in props design and decor the Hackoverse-24 venue.
   Participated in Hackoverse event and secured 2nd pos. in Codequest.
 
