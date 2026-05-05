@@ -1,3 +1,5 @@
+# Contributions toward our HnCC
+
 ## Leadership Contributions
 
 - Took a Data Science orientation session in my 2nd year and created the full PPT for it.
